@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://v46977338-pixel.github.io/StudyMaster/sitemap.xml
